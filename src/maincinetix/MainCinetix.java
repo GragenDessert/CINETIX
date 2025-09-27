@@ -6,6 +6,7 @@ public class MainCinetix {
     
     public static void main(String[] args) {
         // Hola
+        System.out.pritnln("TESTING");
         System.out.println("Para que haya algo!");
         System.out.println("Intoduce exactamente la palabra -- CINETIX --");
         String input = lector.nextLine();
@@ -17,6 +18,8 @@ public class MainCinetix {
             }
         }
         System.out.println(input);
+
     }
     
 }
+
