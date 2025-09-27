@@ -7,6 +7,7 @@ public class MainCinetix {
     public static void main(String[] args) {
         // Hola
         // HOla hoal hoala hola hola hoal hola
+        // Muchos holas muchos holas muchoas holas muchoas holas
         System.out.println("Para que haya algo!");
         System.out.println("Intoduce exactamente la palabra -- CINETIX --");
         String input = lector.nextLine();
@@ -21,4 +22,5 @@ public class MainCinetix {
     }
     
 }
+
 
